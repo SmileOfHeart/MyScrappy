@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Jar/fluent-hc-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Jar/httpclient-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Jar/httpclient-cache-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Jar/httpclient-osgi-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Jar/httpclient-win-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Jar/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="Jar/httpmime-4.5.7.jar"/>
+	<classpathentry kind="lib" path="Jar/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Jar/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="Jar/httpcore-ab-4.4.11.jar"/>
+	<classpathentry kind="lib" path="Jar/httpcore-nio-4.4.11.jar"/>
+	<classpathentry kind="lib" path="Jar/httpcore-osgi-4.4.11.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/MyScrappy/Jar/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
